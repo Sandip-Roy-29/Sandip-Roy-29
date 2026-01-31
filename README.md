@@ -14,14 +14,6 @@
 
 ---
 
-## 🔗 Featured Repositories  
-| Repository | Description |
-|-------------|-------------|
-| [🧠 DSA-Solutions](https://github.com/Sandip-Roy-29/DSA-Solutions) | Polished and well-documented LeetCode & Codeforces solutions |
-| [📘 DSA-Learning](https://github.com/Sandip-Roy-29/DSA-Learning) | My daily DSA practice, learning notes, and experiments |
-
----
-
 ## 🔧 Tech Stack  
 **Languages:** C++, Java, JavaScript, C  
 **Frontend:** HTML, CSS, TailwindCSS, React.js  
